@@ -1,2 +1,3 @@
 # Dino-Game
-First attempt using Javascript to create a game
+
+This repository includes a mini-game created using vanilla CSS, JavaScript, and HTML. Use the Live Server extension to play the game. The game features increasing level complexity as you progress.
